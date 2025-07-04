@@ -16,7 +16,7 @@ This project uses **CrewAI**, **LangChain**, **Google Calendar API**, and **Comp
 
 ## 🎯 Example Use Case
 
-\`\`\`bash
+```bash
 📝 To-Do:
 1PM - 3PM -> Code,
 5PM - 7PM -> Meeting,
@@ -25,7 +25,7 @@ This project uses **CrewAI**, **LangChain**, **Google Calendar API**, and **Comp
 
 🤖 Output:
 ✅ Events added to Google Calendar titled "Code", "Meeting", etc. on today’s date.
-\`\`\`
+```
 
 ---
 
