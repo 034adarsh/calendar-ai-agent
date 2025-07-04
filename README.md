@@ -46,30 +46,29 @@ This project uses **CrewAI**, **LangChain**, **Google Calendar API**, and **Comp
 
 1. **Clone the Repo**
 
-\`\`\`bash
+```bash
 git clone https://github.com/<your-username>/ai-calendar-agent.git
 cd ai-calendar-agent
-\`\`\`
+```
 
 2. **Create \`.env\` file**
 
-\`\`\`
-OPENAI_API_KEY=your-openai-key
+```
 GOOGLE_API_KEY=your-google-api-key
 COMPOSIO_API_KEY=your-composio-key
-\`\`\`
+```
 
 3. **Install Dependencies**
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 4. **Run the Agent**
 
-\`\`\`bash
+```bash
 python calendar_agent.py
-\`\`\`
+```
 
 ---
 
