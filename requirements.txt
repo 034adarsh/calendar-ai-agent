@@ -1,0 +1,4 @@
+crewai[base]==0.51.1
+composio_crewai==0.7.20
+langchain_google_genai==1.0.10
+python-dotenv==1.0.1
